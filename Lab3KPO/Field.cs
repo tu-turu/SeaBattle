@@ -11,7 +11,7 @@ using System.Text;
 
 public class Field
 {
-    // Test test test test test test test
+    // Test test test test test test
 	private byte[,] field
 	{
 		get;
