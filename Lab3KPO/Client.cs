@@ -11,6 +11,7 @@ using System.Text;
 
 public class Client : NetMember
 {
+    // test2 test2 test2 test2 test2
 	public virtual bool FindServer()
 	{
 		throw new System.NotImplementedException();
