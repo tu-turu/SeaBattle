@@ -43,6 +43,27 @@ namespace Lab3KPO
             get;
             set;
         }
+
+        	public virtual void Field1()
+	{
+		throw new System.NotImplementedException();
+	}
+
+	public virtual void Field2()
+	{
+		throw new System.NotImplementedException();
+	}
+
+	public virtual void ShowWin()
+	{
+		throw new System.NotImplementedException();
+	}
+
+	public virtual void ShowLose()
+	{
+		throw new System.NotImplementedException();
+	}
+
         public MainWindow()
         {
             InitializeComponent();
