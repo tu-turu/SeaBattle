@@ -11,7 +11,7 @@ using System.Text;
 
 public class Field
 {
-    // Test test test test test TU! Tu-ru!
+    // Test WAAAAGH test test test TU! Tu-ru!
 	private byte[,] field
 	{
 		get;
