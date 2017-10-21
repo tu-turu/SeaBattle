@@ -13,7 +13,7 @@ public class Field
 {
     // Test WAAAAGH test test test TU! Tu-ru!
 	private byte[,] field
-	{
+	'phtr{
 		get;
 		set;
 	}
