@@ -14,6 +14,7 @@ public class AI
 	// tututu
 	private byte field
 	{
+		//Something wrong is going on
 		get;
 		set;
 	}
