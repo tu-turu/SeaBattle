@@ -11,6 +11,7 @@ using System.Text;
 
 public class AI
 {
+	// tututu
 	private byte field
 	{
 		get;
